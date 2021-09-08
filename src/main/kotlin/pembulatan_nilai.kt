@@ -12,7 +12,7 @@ class Angka {
             field = if (value < 15.5)
                 15.0
             else if (value > 15.5)
-                16.00
+                16.0
             else
                 value
         }
